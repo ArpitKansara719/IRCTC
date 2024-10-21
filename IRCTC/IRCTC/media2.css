@@ -1,0 +1,62 @@
+@media(min-width:768px) and (max-width:991px)
+{
+
+    .logo   
+{ 
+
+    position: absolute;
+    top:20%;
+    right:14%;
+}
+.mad 
+{
+ width: 90%;
+ position: absolute;
+} 
+/* 
+ */
+
+.main button 
+{
+    width: 70%;
+   margin-top: 30px;
+}
+
+.why form 
+{
+
+ border-radius: 20px;
+ width: 90%;
+
+
+
+}
+.she 
+{
+ position: absolute;
+ top: 9%;
+ left: 90%;
+}
+.ll img 
+{
+    padding-left: 20px;
+    
+}
+.man ul 
+{
+    margin-left: 0px;
+   width: 100%;
+   flex-wrap: wrap;
+}
+.po .card
+{
+    box-shadow: 4px 8px 19px -3px rgba(137, 136, 136, 0.27);
+    font-size: 12px;
+    padding: 20px;
+    height: 400px; 
+}
+.po img 
+{
+     width: 100%;   
+}
+}
